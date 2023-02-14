@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sidebar-container{
+  background-color: cadetblue;
+ height: 800px;
+
+}
+.btn{
+  width: 180px;
+  background-color: antiquewhite;
+  color: black;
+  font-weight: bold;
+}
+
+.margin{
+  margin-top: 230px;
+}
+.footer{
+  text-align: center;
+}
